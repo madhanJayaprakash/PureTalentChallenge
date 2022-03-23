@@ -1,0 +1,207 @@
+const MockupData=[{
+    userid:1,
+    fullname:'Madhan',
+    username:'madhan.it',
+    email:'madhan@gmail.com',
+    picture:'images/nature.jpg',
+    extras:{
+        gender:'Male',
+        address:'Chennai',
+        Phoneno:'9992999911'
+    }
+},
+{
+    userid:3,
+    fullname:'Ram',
+    username:'ram.it1986',
+    email:'Ram@gmail.com',
+    picture:'images/nature_1.jpg',
+    extras:{
+        gender:'Male',
+        address:'Dubai',
+        Phoneno:'9992999911'
+    }
+},
+{
+    userid:4,
+    fullname:'Suresh',
+    username:'suresh001',
+    email:'suresh001@gmail.com',
+    picture:'images/nature_2.jpg',
+    extras:{
+        gender:'Male',
+        address:'Chennai',
+        Phoneno:'9992999911'
+    }
+},
+{
+    userid:2,
+    fullname:'Sonya',
+    username:'sonya007',
+    email:'sonya007@gmail.com',
+    picture:'images/nature_3.jpg',
+    extras:{
+        gender:'Female',
+        address:'Delhi',
+        Phoneno:'9992999911'
+    }
+},
+{
+    userid:5,
+    fullname:'Naman',
+    username:'naman1001',
+    email:'naman1001@gmail.com',
+    picture:'images/nature_4.jpg',
+    extras:{
+        gender:'Male',
+        address:'Mumbai',
+        Phoneno:'9992999911'
+    }
+},
+{
+    userid:6,
+    fullname:'Namen',
+    username:'namen1001',
+    email:'naman1001@gmail.com',
+    picture:'images/nature_1.jpg',
+    extras:{
+        gender:'Male',
+        address:'Mumbai',
+        Phoneno:'9992111111'
+    }
+},
+{
+    userid:6,
+    fullname:'Nameen',
+    username:'nameen1001',
+    email:'nameen1001@gmail.com',
+    picture:'images/nature_2.jpg',
+    extras:{
+        gender:'Male',
+        address:'Delhi',
+        Phoneno:'9992900000'
+    }
+},
+{
+    userid:7,
+    fullname:'Namesh',
+    username:'namesh1001',
+    email:'nameen1001@gmail.com',
+    picture:'images/nature.jpg',
+    extras:{
+        gender:'Male',
+        address:'Kolkatta',
+        Phoneno:'9992900100'
+    }
+},
+{
+    userid:8,
+    fullname:'mandeep',
+    username:'mandeep001',
+    email:'mandeep@gmail.com',
+    picture:'images/nature_1.jpg',
+    extras:{
+        gender:'Male',
+        address:'Sharjah',
+        Phoneno:'9992999911'
+    }
+},
+{
+    userid:9,
+    fullname:'maran',
+    username:'maran1001',
+    email:'maran1001@gmail.com',
+    picture:'images/nature_3.jpg',
+    extras:{
+        gender:'Male',
+        address:'Mumbai',
+        Phoneno:'9992221111'
+    }
+},
+{
+    userid:10,
+    fullname:'Raja',
+    username:'Raja1001',
+    email:'Raja1001@gmail.com',
+    picture:'images/nature_4.jpg',
+    extras:{
+        gender:'Male',
+        address:'Delhi',
+        Phoneno:'9992900000'
+    }
+},
+{
+    userid:11,
+    fullname:'Balan',
+    username:'Balan1000',
+    email:'Balan1000@gmail.com',
+    picture:'images/nature.jpg',
+    extras:{
+        gender:'Male',
+        address:'Kolkatta',
+        Phoneno:'9992900100'
+    }
+},
+{
+    userid:12,
+    fullname:'Ashraf',
+    username:'Ashraf1000',
+    email:'Ashraf1000@gmail.com',
+    picture:'images/nature_2.jpg',
+    extras:{
+        gender:'Male',
+        address:'Kolkatta',
+        Phoneno:'9892900100'
+    }
+},
+{
+    userid:13,
+    fullname:'Mohammad',
+    username:'Mohammad1000',
+    email:'Mohammad1000@gmail.com',
+    picture:'images/nature.jpg',
+    extras:{
+        gender:'Male',
+        address:'Punjab',
+        Phoneno:'9893800100'
+    }
+},
+{
+    userid:14,
+    fullname:'Mosha',
+    username:'Mosha1000',
+    email:'Mosha1000@gmail.com',
+    picture:'images/nature_3.jpg',
+    extras:{
+        gender:'Male',
+        address:'Kolkatta',
+        Phoneno:'7992900100'
+    }
+},
+{
+    userid:15,
+    fullname:'Sachin',
+    username:'Sachin1000',
+    email:'Sachin1000@gmail.com',
+    picture:'images/nature_1.jpg',
+    extras:{
+        gender:'Male',
+        address:'Kolkatta',
+        Phoneno:'9333900100'
+    }
+},
+{
+    userid:16,
+    fullname:'Yashraj',
+    username:'Yashraj1000',
+    email:'Yashraj1000@gmail.com',
+    picture:'images/nature.jpg',
+    extras:{
+        gender:'Male',
+        address:'KolOdissakatta',
+        Phoneno:'9988900100'
+    }
+},
+]
+
+export default MockupData;
